@@ -150,7 +150,10 @@ const Carrosel = () => {
             }
           >
             <div className="image-container relative">
-              <img alt="" src="/src/assets/carrosel-mob.jpg" />
+              <img
+                alt=""
+                src="https://raw.githubusercontent.com/IgorZibetti/Maeztra-Teste/main/src/assets/carrosel-mob.jpg"
+              />
               <div className="overlay-text absolute top-1/2 left-0 transform flex flex-col justify-start items-start -translate-y-1/2 text-white text-lg">
                 <h3 className="font-bold text-[30px] mb-4 w-[240px] text-start m-12 ">
                   Promoções <br></br> de Outono
@@ -164,7 +167,10 @@ const Carrosel = () => {
               </div>
             </div>
             <div className="image-container relative">
-              <img alt="" src="/src/assets/carrosel-mob.jpg" />
+              <img
+                alt=""
+                src="https://raw.githubusercontent.com/IgorZibetti/Maeztra-Teste/main/src/assets/carrosel-mob.jpg"
+              />
               <div className="overlay-text absolute top-1/2 left-0 transform flex flex-col justify-start items-start -translate-y-1/2 text-white text-lg">
                 <h3 className="font-bold text-[30px] mb-4 w-[240px] text-start m-12 ">
                   Promoções <br></br>de Outono
@@ -178,7 +184,10 @@ const Carrosel = () => {
               </div>
             </div>
             <div className="image-container relative">
-              <img alt="" src="/src/assets/carrosel-mob.jpg" />
+              <img
+                alt=""
+                src="https://raw.githubusercontent.com/IgorZibetti/Maeztra-Teste/main/src/assets/carrosel-mob.jpg"
+              />
               <div className="overlay-text absolute top-1/2 left-0 transform flex flex-col  justify-start items-start -translate-y-1/2 text-white text-lg">
                 <h3 className="font-bold text-[30px] mb-4 w-[240px] text-start m-12">
                   Promoções <br></br> de Outono

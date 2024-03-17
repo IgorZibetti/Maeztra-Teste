@@ -2,7 +2,7 @@ const NewSletter = () => {
   return (
     <div className="lg:flex gap-5 justify-center items-center mt-20 ">
       <h4 className="text-[24px] mb-3 text-center font-bold ">
-        Recebe Nossa Newsletter
+        Receba Nossa Newsletter
       </h4>
       <div className="flex justify-around items-center">
         <div className="lg:relative flex gap-1">
