@@ -15,11 +15,13 @@ const NewCollect = () => {
           sit sapien.
         </p>
       </div>
-      <img
-        className="w-[320px] sm:w-[1140px] h-[180px] sm:h-[480px] m-5  sm:m-7 rounded"
-        src="https://i.imgur.com/1vLCv01.png"
-        alt=""
-      />
+      <div className="flex justify-center items-center m-4">
+        <img
+          className="w-[320px] sm:w-[1140px] h-[180px] sm:h-[480px] rounded"
+          src="https://i.imgur.com/1vLCv01.png"
+          alt=""
+        />
+      </div>
     </div>
   )
 }
