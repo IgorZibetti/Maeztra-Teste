@@ -18,9 +18,9 @@ const NewSletter: React.FC<{ onSubmit: (data: FormData) => void }> = ({
 
   return (
     <div className="lg:flex gap-5 justify-center items-center mt-20 ">
-      <h4 className="text-[24px] mb-3 text-center font-bold ">
+      <h3 className="text-[24px] mb-3 text-center font-bold ">
         Receba Nossa Newsletter
-      </h4>
+      </h3>
       <form onSubmit={handleSubmit(onSubmit)}>
         <div className="flex justify-around items-center">
           <div className="lg:relative flex gap-1">

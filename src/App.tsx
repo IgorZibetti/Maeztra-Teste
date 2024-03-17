@@ -12,6 +12,7 @@ import NewCollect from './components/cards/newcollect'
 import NewSletter from './components/newsletter/NewSletter'
 import FooterUp from './components/footer/acordeon'
 import Footer from './components/footer/footer'
+import Popup from './components/popup/popup'
 
 function App() {
   const product = productData.map((item) => (
@@ -50,6 +51,7 @@ function App() {
       <NewSletter />
       <FooterUp />
       <Footer />
+      <Popup />
     </>
   )
 }
