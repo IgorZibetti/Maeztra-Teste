@@ -29,7 +29,7 @@ const Popup = () => {
                   <div className="w-full sm:w-1/2 hidden lg:block relative">
                     <img
                       className="object-cover w-full "
-                      src="src\assets\popup.png"
+                      src="https://raw.githubusercontent.com/IgorZibetti/Maeztra-Teste/main/src/assets/popup.png"
                       alt="Imagem"
                     />
                   </div>
