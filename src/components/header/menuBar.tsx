@@ -3,6 +3,7 @@ import { Transition } from '@headlessui/react'
 import { HiOutlineShoppingBag } from 'react-icons/hi2'
 import { CiUser, CiHeart } from 'react-icons/ci'
 import { IoMdSearch } from 'react-icons/io'
+import { PiDressThin } from 'react-icons/pi'
 
 const categories = [
   'Novidade',
@@ -93,6 +94,9 @@ const MenuBar: React.FC = () => {
           <div className="flex justify-between items-center py-4 md:justify-start md:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1"></div>
             <nav className="hidden md:flex justify-between items-center space-x-28">
+              <div className="absolute ml-20">
+                <PiDressThin size={24} />
+              </div>
               {categories.map((category, index) => (
                 <a
                   key={index}
