@@ -27,7 +27,7 @@ Tecnologias Utilizadas
 Instalação
 
     Certifique-se de ter o Node.js instalado em sua máquina.
-    Clone este repositório utilizando o comando git clone https://github.com/seu-usuario/nome-do-repositorio.git.
+    Clone este repositório utilizando o comando git clone https://github.com/IgorZibetti/Maeztra-Teste
     No diretório raiz do projeto, execute npm install para instalar as dependências.
     Após a instalação das dependências, execute npm run dev para iniciar o servidor de desenvolvimento.
     Acesse a aplicação em seu navegador através do endereço local.
@@ -35,7 +35,4 @@ Instalação
 Desenvolvimento
     Este projeto utiliza o Vite para compilação e empacotamento.
     Os arquivos de código-fonte estão localizados no diretório src e no App.tsx.
-
-Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou uma issue para reportar bugs, sugerir melhorias ou adicionar novos recursos.
+    
